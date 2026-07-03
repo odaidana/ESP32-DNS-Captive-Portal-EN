@@ -9,3 +9,6 @@ This repository provides a production-ready, open-source educational implementat
 
 ## Repository Structure
 - `src/dns_portal.cpp` — Main firmware running the Access Point, DNS stack, and HTTP server.
+
+## Contact & Support
+For questions or hardware discussions, feel free to reach out via Discord: `odai.7`
